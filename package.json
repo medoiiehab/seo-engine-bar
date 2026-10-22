@@ -1,0 +1,54 @@
+{
+  "name": "seo-engine-bar",
+  "version": "1.0.0",
+  "description": "Headless SEO analysis engine and React preview component",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "keywords": [
+    "seo",
+    "react",
+    "tiptap",
+    "quill",
+    "seo-analyzer",
+    "headless-seo",
+    "meta-preview",
+    "cms",
+    "content-management",
+    "headless",
+    "headless-cms"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "@phosphor-icons/react": "^2.0.0",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "peerDependenciesMeta": {
+    "@phosphor-icons/react": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "@types/react": "^18.3.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/medoiiehab/seo-engine-bar.git"
+  },
+  "homepage": "https://github.com/medoiiehab/seo-engine-bar#readme"
+}

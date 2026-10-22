@@ -1,0 +1,7 @@
+High-Impact Ideas for Version 2.0
+
+Readability / Flesch-Kincaid Index: Calculate the reading ease score of bodyText (e.g., "Grade 8 reading level").
+
+Heading Hierarchy Checker: Scan HTML for proper structure (e.g., ensuring an <h1 /> exists and headings aren't skipped from h2 to h4).
+
+Open Graph / Social Card Previews: Add a toggle in <SEOBar/> to switch between a Google Search snippet preview and a Twitter/Facebook card preview.
