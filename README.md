@@ -43,5 +43,5 @@ function SeoPanel() {
 
 - [Author: medoiiehab (Medo Ehab || Lin)](https://github.com/medoiiehab)
 - [MIT License](https://opensource.org/license/mit/)
-- **Live Demo:** will get deployed soon!
+- **Live Demo:** [seo-engine-app.mehab.workers.dev](https://seo-engine-app.mehab.workers.dev) *(Deployed on Cloudflare Pages)*
 - **Example Code:** [github.com/medoiiehab/Seo-Engine-App](https://github.com/medoiiehab/seo-tiptap-app)
